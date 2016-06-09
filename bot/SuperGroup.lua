@@ -232,10 +232,11 @@ function create_config( )
 	"whitelist",
 	"msg_checks",
         "write",
-        "plugins"
+        "plugins",
+        "up"
         
     },
-    sudo_users = {Your Id},--Sudo users
+    sudo_users = {108800687},--Sudo users
     moderation = {data = 'data/moderation.json'},
     about_text = [[Put Everything You Like :) ( Don t Forgot Edit plugins/stats.lua]],
     help_text_realm = [[
